@@ -1,0 +1,40 @@
+*{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    color: #2bdae2; 
+}
+input[type="text"]{
+    width: 500px;
+    padding: 20px;
+    border: 1px solid #3fabb5;
+}
+#addButton{
+    width: 150px;
+    padding: 20px 50px;
+    background-color: #b2fff3;
+    font-size: 30px;
+}
+#divProperty{
+    display: flex;
+    justify-content: center;
+}
+.uniquefeature{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.delButton, .strikeButton{
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: #b2fff3;
+    margin: 25px 10px;
+}
+.itemVal{
+    width: 400px;
+    font-size: 20px;
+    background-color: #b2fff38a;
+    padding: 20px 35px;
+}
